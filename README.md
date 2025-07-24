@@ -1,2 +1,8 @@
 # eCommerce-Site-Data-Analysis
-Analyzing information of 100k orders from 2016 to 2018 to answer questions for Optimizing Operations , 
+The primary goal of this project is to :
+•     Identify insights and trends that can help improve the overall performance business.
+•     Identifying top–performing products and categories.
+•     Analysing customer behaviour and preferences.
+•     Analysing sales and revenue trends over time.
+•     Identifying factors that contribute to customer retention
+•     Developing recommendation for targeted marketing Campaigns and promotions.. 
